@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Fake Love?",
+  "base_artist": "21 Clown",
+  "createdAt": "2025-12-07T08:38:49.587432Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Fake Love (feat. Danielle Bradbery)",
+      "artist": "Adam Doleac",
+      "has_synced": true,
+      "path": "select/01_Fake_Love_(feat._Danielle_Bradbery)_Adam_Doleac.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Fake Love",
+      "artist": "Adam Doleac",
+      "has_synced": true,
+      "path": "select/02_Fake_Love_Adam_Doleac.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Fake Love",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/03_Fake_Love_Drake.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Fake Love",
+      "artist": "S-X",
+      "has_synced": false,
+      "path": "select/04_Fake_Love_S-X.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "FAKE LOVE",
+      "artist": "BTS",
+      "has_synced": true,
+      "path": "select/05_FAKE_LOVE_BTS.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Cabaret Sunshine -Fake Love-",
+      "artist": "SEGA SOUND TEAM feat. 吉田 沙織 & 吉田 真理(TEMPEST STUDIO)",
+      "has_synced": false,
+      "path": "select/06_Cabaret_Sunshine_-Fake_Love-_SEGA_SOUND_TEAM_feat._吉田_沙織_&_吉田_真理(TEMPEST_STUDIO).txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Cabaret Sunshine -Fake Love-",
+      "artist": "SEGA Sound Team",
+      "has_synced": true,
+      "path": "select/07_Cabaret_Sunshine_-Fake_Love-_SEGA_Sound_Team.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "FAKE LOVE",
+      "artist": "BTS",
+      "has_synced": true,
+      "path": "select/08_FAKE_LOVE_BTS.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Fake Love",
+      "artist": "Tony Yayo",
+      "has_synced": true,
+      "path": "select/09_Fake_Love_Tony_Yayo.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Fake Love (Album Version Explicit)",
+      "artist": "Tony Yayo",
+      "has_synced": true,
+      "path": "select/10_Fake_Love_(Album_Version_Explicit)_Tony_Yayo.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "fake love don’t last",
+      "artist": "Machine Gun Kelly",
+      "has_synced": true,
+      "path": "select/11_fake_love_don’t_last_Machine_Gun_Kelly.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Fake Love",
+      "artist": "Capsize",
+      "has_synced": true,
+      "path": "select/12_Fake_Love_Capsize.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Fake Love",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/13_Fake_Love_Drake.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Fake Love",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/14_Fake_Love_Drake.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Fake Love (Radio Edit)",
+      "artist": "BTS",
+      "has_synced": true,
+      "path": "select/15_Fake_Love_(Radio_Edit)_BTS.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Fake Love",
+      "artist": "Cemetery Sun",
+      "has_synced": false,
+      "path": "select/16_Fake_Love_Cemetery_Sun.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Fake Love",
+      "artist": "POUNDZ",
+      "has_synced": true,
+      "path": "select/17_Fake_Love_POUNDZ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Fake Love? (feat. nyamura)",
+      "artist": "21 Clown",
+      "has_synced": false,
+      "path": "select/pl_01_Fake_Love__(feat._nyamura)_21_Clown.txt"
+    }
+  ]
+}
